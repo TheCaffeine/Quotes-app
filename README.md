@@ -2,7 +2,7 @@
 
 ## Author
 
-[TheCaffeine](https://github.com/TheCaffeine)
+https://thecaffeine.github.io/Quotes-app/
 
 ## Description
 
